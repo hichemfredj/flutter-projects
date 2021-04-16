@@ -1,0 +1,35 @@
+Lundi 8 Mars :
+    - Create and structure App
+    - Test and run on IOS simulator
+    - Learn Firebase
+    - Create Trello to-do list
+
+Lundi 15 Mars : 
+
+    - Link Firebase To the App
+    - Configure GoogleService
+    - Render stream data with streambuilder
+    - Test firebase Date base
+
+Lundi 22 Mars : 
+
+    - Send and save date to-from firebase
+    - Adding data
+    - Create a basic authentication screen (login + signup)
+
+Lundi 29 mars :
+
+    - Create an App Theme
+    - Create an Authentication form (login + signup)
+    - Adding the firebase_auth Package
+    
+ Lundi 5 Avril :
+ 
+    - Implement Authentication 
+    - Add Validation
+ 
+ Lundi 12 Avril :
+ 
+    - Store Extra user-data
+    - Finish Authentication
+    - Add Logout option
