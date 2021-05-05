@@ -1,4 +1,3 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:first_app/widgets/chat/messages.dart';
 import 'package:first_app/widgets/chat/new_message.dart';
 import 'package:flutter/material.dart';
